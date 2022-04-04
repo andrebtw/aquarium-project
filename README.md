@@ -1,4 +1,3 @@
 # aquarium-project
-
-This is a project.
-<img src="https://www.openapis.org/wp-content/uploads/sites/3/2021/12/readme-blue.png">
+<img src="https://blog.manomano.fr/wp-content/uploads/2021/09/Aquarium-deau-de-mer-scaled.jpg">
+This is the aquarium project
